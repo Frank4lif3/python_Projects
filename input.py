@@ -7,3 +7,5 @@ while x < 1 or x > 10:
 print(x)
 array.append(x)
 print(array[1])
+
+print("explaining github to sissi")
