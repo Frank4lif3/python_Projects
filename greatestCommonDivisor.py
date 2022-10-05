@@ -4,5 +4,7 @@
 def GCD(int1, int2):
     remainder = int1 % int2
     print(int1, int2, remainder)
-
+    
 GCD(20, 10)
+
+print("hello world")
